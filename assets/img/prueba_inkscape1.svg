@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="prueba_inkscape1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-page="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="false"
+     inkscape:zoom="0.69664703"
+     inkscape:cx="290.67805"
+     inkscape:cy="635.18537"
+     inkscape:window-width="1866"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3675"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff00a5;stop-opacity:1;"
+         offset="0"
+         id="stop3673" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffbc2a;stroke:#b37f00;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="rect9226"
+       width="12.423463"
+       height="50.957859"
+       x="72.230522"
+       y="71.869125"
+       ry="2.2995424"
+       transform="rotate(-2.63539)" />
+    <rect
+       style="fill:#ffc42a;stroke:#b17e00;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="rect14226"
+       width="12.423463"
+       height="50.957859"
+       x="108.90131"
+       y="67.750923"
+       ry="2.2995424"
+       transform="rotate(4.8017277)" />
+    <rect
+       style="fill:#ffd42a;stroke:#b17e00;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13887"
+       width="12.423463"
+       height="50.957859"
+       x="73.627213"
+       y="66.889763"
+       ry="2.2995424"
+       transform="rotate(4.3671076)" />
+    <rect
+       style="fill:#ffd42a;stroke:#b17e00;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect890"
+       width="12.423463"
+       height="50.957859"
+       x="24.463776"
+       y="75.748512"
+       ry="2.2995424"
+       transform="rotate(-9.7588512)" />
+    <rect
+       style="fill:#ffe52a;stroke:#b17e00;stroke-width:0.761782;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="rect9224"
+       width="12.31838"
+       height="50.961079"
+       x="47.195602"
+       y="82.922478"
+       ry="2.2996876"
+       transform="rotate(-4.097368)" />
+    <rect
+       style="fill:#ffd42a;stroke:#b17e00;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9228"
+       width="12.423463"
+       height="50.957859"
+       x="97.755386"
+       y="62.194546"
+       ry="2.2995424"
+       transform="rotate(4.8017277)" />
+    <path
+       id="rect1234"
+       style="fill:#ff0000;stroke:#d3061b;stroke-width:3.00565;stroke-opacity:1"
+       d="m 38.363924,110.12204 c 25.410995,0.0229 50.821991,0.0457 76.232986,0.0686 0,0 -11.64821,41.9799 -12.72974,45.45147 0,0 -43.290533,0.0101 -50.875505,0.0102 -4.209247,-15.17676 -8.418494,-30.35351 -12.627741,-45.53027 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.8537px;line-height:1.25;font-family:Purisa;-inkscape-font-specification:Purisa;stroke-width:0.671343;fill:#ffdd55;fill-opacity:1"
+       x="62.901535"
+       y="147.41985"
+       id="text21819"
+       transform="scale(1.0339884,0.96712884)"><tspan
+         sodipodi:role="line"
+         id="tspan21817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Purisa;-inkscape-font-specification:Purisa;stroke-width:0.671343;fill:#ffdd55;fill-opacity:1"
+         x="62.901535"
+         y="147.41985">M</tspan></text>
+  </g>
+</svg>
